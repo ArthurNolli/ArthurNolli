@@ -1,4 +1,4 @@
-# Olá, eu sou o ARTHUR👋
+# Olá, eu sou o ARTHUR NOLLI PONTES👋
 
 Sou formado em **Sistemas de Informação** e apaixonado por desenvolvimento web!  
 Tenho foco em **Front-End**, criando soluções dinâmicas, intuitivas e acessíveis com **HTML, CSS, JavaScript e React**.  
